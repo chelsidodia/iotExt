@@ -1,0 +1,16 @@
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\VS_PubApp.exe
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\VS_PubApp.deps.json
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\VS_PubApp.runtimeconfig.json
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\VS_PubApp.runtimeconfig.dev.json
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\VS_PubApp.dll
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\VS_PubApp.pdb
+D:\Sem9\IOT_Final\Practical\VS_PubApp\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.csproj.AssemblyReference.cache
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.AssemblyInfoInputs.cache
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.AssemblyInfo.cs
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.csproj.CoreCompileInputs.cache
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.csproj.CopyComplete
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.dll
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.pdb
+D:\Sem9\IOT_Final\Practical\VS_PubApp\obj\Debug\netcoreapp3.1\VS_PubApp.genruntimeconfig.cache

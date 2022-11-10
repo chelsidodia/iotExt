@@ -1,0 +1,16 @@
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\VS_SubApp.exe
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\VS_SubApp.deps.json
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\VS_SubApp.runtimeconfig.json
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\VS_SubApp.runtimeconfig.dev.json
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\VS_SubApp.dll
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\VS_SubApp.pdb
+D:\Sem9\IOT_Final\Practical\VS_SubApp\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.csproj.AssemblyReference.cache
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.AssemblyInfoInputs.cache
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.AssemblyInfo.cs
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.csproj.CoreCompileInputs.cache
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.csproj.CopyComplete
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.dll
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.pdb
+D:\Sem9\IOT_Final\Practical\VS_SubApp\obj\Debug\netcoreapp3.1\VS_SubApp.genruntimeconfig.cache

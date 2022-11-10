@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9gWM7yaOk8k2KfM37cbHdaKXPonOKuKj8IMujIMSAhalwpnmLGvd2aBOfbgd90i36Ts3YfE5iwJ3E7sPMmiuOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sem9\\IOT_Final\\Practical\\VS_SubApp\\VS_SubApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kruti\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
